@@ -1,4 +1,3 @@
-
 # Just a fork
 
 [abhimanyusharma003/phpstorm-spacegray](https://github.com/abhimanyusharma003/phpstorm-spacegray)
@@ -11,6 +10,6 @@
 
 
 ### php Example
-![Php example](http://imgur.com/kOjA0B7)
+![Php example](http://imgur.com/kOjA0B7.png)
 
 
